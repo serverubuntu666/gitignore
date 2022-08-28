@@ -1,2 +1,6 @@
 # ignore file
 new_file.txt
+
+# ignore directory
+
+tmp/
