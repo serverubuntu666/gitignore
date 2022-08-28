@@ -4,3 +4,7 @@ new_file.txt
 # ignore directory
 
 tmp/
+
+# ignore wildcard
+
+*.tmp
